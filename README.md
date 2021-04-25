@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Hi, I'm [Luis Garduno](https://garduno.me), a passionate developer interested in Artificial Intelligence, Algorithm Optimaztion, iOS Development, Security, & Full-Stack Development.
+Hi, I'm [Luis Garduno](https://garduno.me), a passionate developer interested in Artificial Intelligence, Optimization Algorithms, iOS Development, Security, & Full-Stack Development.
 - 🏫 I'm currently a third year student at the Lyle School of Engineering, Southern Methodist University.
      - 📜 B.S. in Computer Science : Specialization in Artificial Intelligence
      - 📜 B.S. in Data Science
