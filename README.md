@@ -5,7 +5,7 @@ Hi, I'm [Luis Garduno](https://garduno.me), a passionate developer interested in
      - 📜 B.S. in Computer Science : Specialization in Artificial Intelligence
      - 📜 B.S. in Data Science
      - 📜 Minor in Mathematics
-- 🔭 I’m currently working on [Co-reference resolution problem](https://github.com/luisegarduno/NLP-Projects)
+- 🔭 I’m currently working on [WordNet Distance](https://github.com/luisegarduno/NLP-Projects)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: Luis@garduno.tech
