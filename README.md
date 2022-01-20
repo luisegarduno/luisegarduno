@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Hi, I'm [Luis Garduno](https://garduno.me), a passionate developer interested in Artificial Intelligence, Optimization Algorithms, iOS Development, Security, & Full-Stack Development.
+Hi, I'm [Luis Garduno](https://luisegarduno.github.io), a passionate developer interested in Artificial Intelligence, Optimization Algorithms, iOS Development, Security, & Full-Stack Development.
 - 🏫 I'm currently a third year student at the Lyle School of Engineering, Southern Methodist University.
      - 📜 B.S. in Computer Science : Specialization in Artificial Intelligence
      - 📜 B.S. in Data Science
@@ -8,7 +8,7 @@ Hi, I'm [Luis Garduno](https://garduno.me), a passionate developer interested in
 - 🔭 I’m currently working on [WordNet Distance](https://github.com/luisegarduno/NLP-Projects)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
-- 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: Luis@garduno.tech
+- 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: clear@duck.com
 
 </br>
 
