@@ -1,10 +1,9 @@
 ### Hey there! 👋
 
 Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack Development.
-- 🏫 I'm currently a senior at the Lyle School of Engineering, Southern Methodist University.
+- 🏫 Graduate of SMU.
      - 📜 B.S. in Computer Science
      - 📜 B.S. in Data Science
-     - 📜 Minor in Mathematics
 - 🔭 I’m currently working on [WordNet Distance](https://github.com/luisegarduno/NLP-Projects)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
@@ -21,10 +20,10 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 
 <p align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&count_private=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical" />
   </a>
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&count_private=true&include_all_commits=true&theme=radical" alt="Luis's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats" />
   </a>
 </p>
 
