@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack Development.
+Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 🏫 Graduate of SMU.
      - 📜 B.S. in Computer Science
      - 📜 B.S. in Data Science
@@ -20,10 +20,10 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 
 <p align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
   </a>
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats"/>
   </a>
 </p>
 
