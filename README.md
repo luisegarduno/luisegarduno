@@ -1,9 +1,7 @@
 ### Hey there! 👋
 
 Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
-- 🏫 Graduate of SMU.
-     - 📜 B.S. in Computer Science
-     - 📜 B.S. in Data Science
+- 📜 B.S. in Computer Science + 📜 B.S. in Data Science
 - 🔭 I’m currently working on [WordNet Distance](https://github.com/luisegarduno/NLP-Projects)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
