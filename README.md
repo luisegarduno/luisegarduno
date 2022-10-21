@@ -2,7 +2,7 @@
 
 Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 📜 B.S. in Computer Science + 📜 B.S. in Data Science
-- 🔭 I’m currently working on [WordNet Distance](https://github.com/luisegarduno/NLP-Projects)
+- 🔭 I’m currently working on [EnigmaChess](https://github.com/luisegarduno/EnigmaChess)
 - 🌱 I’m currently learning Machine Learning & Natural Language Processing
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: neat@duck.com
@@ -18,10 +18,10 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 
 <p align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats"/>
   </a>
   <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
   </a>
 </p>
 
