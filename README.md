@@ -3,7 +3,7 @@
 Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 📜 B.S. in Computer Science + 📜 B.S. in Data Science
 - 🔭 I’m currently working on [EnigmaChess](https://github.com/luisegarduno/EnigmaChess)
-- 🌱 I’m currently learning Machine Learning & Natural Language Processing
+- 🌱 I’m currently learning Map Reduce in Hadoop
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: neat@duck.com
 
