@@ -47,3 +47,7 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 </p -->
 
 ![Snake animation](https://github.com/luisegarduno/luisegarduno/blob/output/github-contribution-grid-snake.svg)
+  
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
