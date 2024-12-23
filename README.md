@@ -45,8 +45,6 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
           <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=PHIL1319-FinalReview&theme=radical" />
      </a>     
 </p -->
-
-![Snake Animation](https://github.com/luisegarduno/luisegarduno/blob/output/github-contribution-grid-snake2.svg)
   
 <p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
