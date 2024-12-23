@@ -9,7 +9,7 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luisegarduno/">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luisegarduno&count_bg=%236BE3D4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luisegarduno&count_bg=%230969DA&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/>
   </a>
 </p>
 
