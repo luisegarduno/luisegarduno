@@ -7,12 +7,6 @@ Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer intereste
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: neat@duck.com
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/luisegarduno/">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luisegarduno&count_bg=%230969DA&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/>
-  </a>
-</p>
-
 <div align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
