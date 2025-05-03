@@ -3,9 +3,17 @@
 Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 📜 B.S. in Computer Science + 📜 B.S. in Data Science
 - 🔭 I’m currently working on [EnigmaChess](https://github.com/luisegarduno/EnigmaChess)
-- 🌱 I’m currently learning Map Reduce in Hadoop
+- 🌱 I’m currently learning different tools for developing Agents & RAG systems.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: neat@duck.com
+
+
+<p align="center">
+  <a href="https://gardunos.tech/">
+    <!--img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luisegarduno&count_bg=%230969DA&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/-->
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fluisegarduno&label=Profile-Visits&icon=github&color=%230969da">
+  </a>
+</p>
 
 <div align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
