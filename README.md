@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-Hi, I'm [Luis](https://luisegarduno.github.io), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
+Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 📜 B.S. in Computer Science + 📜 B.S. in Data Science
 - 🔭 I’m currently working on [EnigmaChess](https://github.com/luisegarduno/EnigmaChess)
 - 🌱 I’m currently learning different tools for developing Agents & RAG systems.
