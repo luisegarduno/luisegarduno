@@ -15,14 +15,14 @@ Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I.
   </a>
 </p>
 
-<div align="center">
+<!-- div align="center">
   <a href="https://github.com/luisegarduno/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
   </a>
   <a href="https://github.com/luisegarduno/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats"/>
   </a>
-</div>
+</div -->
 
 <!-- p align="center">
      <a href="https://github.com/luisegarduno/JSON_SearchEngine">
