@@ -2,7 +2,7 @@
 
 Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I., optimization algorithms, security, & both iOS and full-stack development.
 - 📜 B.S. in Computer Science + 📜 B.S. in Data Science
-- 🔭 I’m currently working on [EnigmaChess](https://github.com/luisegarduno/EnigmaChess)
+- 🔭 I’m currently working on [Varagity](https://github.com/luisegarduno/Varagity)
 - 🌱 I’m currently learning different tools for developing Agents & RAG systems.
 - 👯 I’m willing to work on free-lance projects & am always interested in working on more open source projects.
 - 💬 Ask me about anything [here](https://github.com/luisegarduno/luisegarduno/issues) or via email: neat@duck.com
