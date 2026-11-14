@@ -30,6 +30,6 @@ Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I.
 </td></tr></table>
 <!-- token-heatmap:end -->
 
-<p align="left">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
