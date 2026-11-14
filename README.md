@@ -10,43 +10,8 @@ Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I.
 
 <p align="center">
   <a href="https://gardunos.tech/">
-    <!--img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/luisegarduno&count_bg=%230969DA&title_bg=%23454545&icon=&icon_color=%23E7E7E7&title=Profile-Visits&edge_flat=false"/-->
     <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fluisegarduno&label=Profile-Visits&icon=github&color=%230969da">
   </a>
-</p>
-
-<!-- div align="center">
-  <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisegarduno&layout=compact&langs_count=8&exclude_repo=MachineLearning_SummerPlan,MachineLearning_Projects&theme=radical"/>
-  </a>
-  <a href="https://github.com/luisegarduno/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=luisegarduno&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Luis's github stats"/>
-  </a>
-</div -->
-
-<!-- p align="center">
-     <a href="https://github.com/luisegarduno/JSON_SearchEngine">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=JSON_SearchEngine&theme=radical" />
-     </a>
-     <a href="https://github.com/luisegarduno/Various-ShortestPath-Algorithms">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=Various-ShortestPath-Algorithms&theme=radical" />
-     </a>
-     <a href="https://github.com/luisegarduno/MachineLearning_Projects">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=MachineLearning_Projects&theme=radical" />
-     </a>
-     <a href="https://github.com/luisegarduno/CampusPlus">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=CampusPlus&theme=radical" />
-     </a>
-     <a href="https://github.com/luisegarduno/WakeUpZoom">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=WakeUpZoom&theme=radical" />
-     </a>
-     <a href="https://github.com/luisegarduno/PHIL1319-FinalReview">
-          <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luisegarduno&repo=PHIL1319-FinalReview&theme=radical" />
-     </a>     
-</p -->
-  
-<p align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 
 <!-- token-heatmap:start -->
@@ -64,3 +29,7 @@ Hi, I'm [Luis](https://gardunos.tech), a passionate developer interested in A.I.
 ><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/gap-158x14.svg" width="158" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/gap-158x14.svg" width="158" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/gap-158x14.svg" width="158" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/gap-158x14.svg" width="158" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/less.svg" width="36" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/0.svg" width="14" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/1.svg" width="14" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/2.svg" width="14" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/3.svg" width="14" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/4.svg" width="14" height="14" align="top" alt=""></a><a href="token-heatmap/history.jsonl" tabindex="-1"><img src="token-heatmap/more.svg" width="34" height="14" align="top" alt=""></a></kbd>
 </td></tr></table>
 <!-- token-heatmap:end -->
+
+<p align="left">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
